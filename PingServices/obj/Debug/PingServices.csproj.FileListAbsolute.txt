@@ -1,0 +1,8 @@
+C:\Work\Samples\PingServices\PingServices\bin\Debug\PingServices.exe.config
+C:\Work\Samples\PingServices\PingServices\bin\Debug\PingServices.exe
+C:\Work\Samples\PingServices\PingServices\bin\Debug\PingServices.pdb
+C:\Work\Samples\PingServices\PingServices\obj\Debug\PingServices.exe
+C:\Work\Samples\PingServices\PingServices\obj\Debug\PingServices.pdb
+C:\Users\hugh.gallagher\Downloads\PingServices\PingServices\bin\Debug\PingServices.exe.config
+C:\Users\hugh.gallagher\Downloads\PingServices\PingServices\obj\Debug\PingServices.exe
+C:\Users\hugh.gallagher\Downloads\PingServices\PingServices\obj\Debug\PingServices.pdb
